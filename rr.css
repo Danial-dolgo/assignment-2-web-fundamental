@@ -1,0 +1,148 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: serif;
+}
+
+body>h1 {
+    margin-left: 10px;
+}
+
+body>p {
+    margin-left: 10px;
+}
+
+.line1 {
+    border: 1px solid rgb(91, 91, 91);
+    height: 1px;
+    width: 100%;
+    margin-top: 15px;
+}
+
+.line2 {
+    border: 1px solid rgb(109, 109, 109);
+    height: 1px;
+    width: 99%;
+
+
+
+}
+
+
+.spisok {
+    padding-left: 30px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+
+}
+
+
+.fulline {
+    display: flex;
+    justify-content: center;
+
+}
+
+
+/* <!-- грудная клетка --> */
+.overall {
+    margin-left: 10px;
+    display: flex;
+
+}
+
+
+.info {
+    margin-top: 90px;
+}
+
+
+.info a {
+    display: inline-block;
+    margin-top: 15px;
+
+}
+
+
+
+
+
+.vorm {
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+
+.inside-put{
+    margin-bottom: 15px;
+}
+
+.vorm input{
+    width: 140px;
+}
+
+
+.info .numer{
+    display: flex;
+    flex-direction: column;
+    width: 40px;
+    margin-bottom: 110px;
+    
+}
+
+
+
+
+
+.picture h3{
+    color: pink;
+
+
+}
+
+
+.picture img{
+    width: 200px;
+}
+
+
+.second{
+    margin-top: 30px;
+    width: 42%;
+    margin-left: 130px;
+
+}
+
+
+.second img{
+    width: 600px;
+
+}
+
+
+.third{
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+}
+
+
+.asseen{
+    display: flex;
+    align-items: center;
+    margin: 30px 0 0 10px;
+}
+
+
+.info-foot{
+    margin-left: 30px;
+}
+
+
+footer{
+    margin-top: 20px;
+     margin-left: 10px;
+}
